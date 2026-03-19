@@ -16,6 +16,8 @@ streamlit run frontend.py --server.port 8080
 3. 登入 Streamlit Community Cloud 並連結 GitHub 帳號。
 4. 選擇對應的倉庫與主檔案，點擊 Deploy 即可。
 
+5. 需要提交表單功能需要使用Render部署後台(連接資料庫)
+
 # 帳號
 
 - 帳號：[EMAIL_ADDRESS]
