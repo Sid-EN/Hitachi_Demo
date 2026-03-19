@@ -14,9 +14,9 @@ streamlit run frontend.py --server.port 8080
 1. 將 Streamlit 程式碼上傳到 GitHub 公開倉庫。
 2. 在根目錄準備一個 requirements.txt 檔案，列出所有需要的 Python 套件。
 3. 登入 Streamlit Community Cloud 並連結 GitHub 帳號。
-4. 選擇對應的倉庫與主檔案，點擊 Deploy 即可。
+4. 選擇對應的倉庫與主檔案，點擊 Deploy 即可。  
 
-5. 需要提交表單功能需要使用Render部署後台(連接資料庫)
+5. 需要提交表單功能，則需要使用Render部署後台(連接資料庫)
 
 # 帳號
 
